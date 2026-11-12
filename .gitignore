@@ -2,3 +2,4 @@ fastq/
 sratoolkit.3.4.1/
 FastQC/
 .ipynb_checkpoints/
+fastq_gzipped/
